@@ -37,7 +37,7 @@ uploadArchives {
 
 dependencies {
 
-  compile group: 'com.softwareplumbers.oss', name: 'abstract-query-java', version: '0.1.4'
+  compile group: 'com.softwareplumbers.oss', name: 'abstract-query-java', version: '0.1.6'
   compile group: 'org.mongodb', name: 'mongodb-driver-sync', version: '3.7.1'
 	
     // Use JUnit test framework
